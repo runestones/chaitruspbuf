@@ -1,0 +1,9 @@
+{
+    "title": "New Update",
+    "message":"Bug fixes\nPerformance improvement",
+    "version":"1.1",
+    "force":true,
+    "show":false,
+    "playStore":"https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en",
+    "direct":"http://www.mediafire.com/file/xjthqy1qyo10cw7/Myanmar_Computer_Basic_2.apk/file"   
+}

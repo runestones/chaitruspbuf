@@ -1,0 +1,121 @@
+[
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/Black_Cleaver.png/revision/latest?cb=20180731012409",
+        "name": "Black Cleaver",
+        "price": "3000",
+        "attribute": "+350 Max Health\n+30 Attack Damage\n+20% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/b4k2gryj3h6v8b6/Black%20Cleaver.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/Blade_of_the_Ruined_King.png/revision/latest?cb=20180812033258",
+        "name": "Blade Of The Ruined King",
+        "price": "3100",
+        "attribute": "+30 Attack Damage\n+30% Attack Speed",
+        "detail": "https://dl.dropboxusercontent.com/s/gv3pzyswuckq6zx/Blade%20Of%20The%20Ruined%20King.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Bloodthirster_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711162831",
+        "name": "Blood Thirster",
+        "price": "3400",
+        "attribute": "+ 65 Attack Damage",
+        "detail": "https://dl.dropboxusercontent.com/s/ksev5y0o10otgp1/Blood%20Thirster.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/11/Death%27s_Dance.png/revision/latest?cb=20180730235239",
+        "name": "Death's Dance",
+        "price": "3000",
+        "attribute": "+300 Max Health\n+35 Attack Damage\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/k4o3u46lznsx8ke/Death%27s%20Dance.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6b/Duskblade_of_Draktharr.png/revision/latest?cb=20180730235246",
+        "name": "Duskblade of Draktharr",
+        "price": "3000",
+        "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/fspgtbv32z9hoga/Duskblade%20of%20Draktharr.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a9/Infinity_Edge.png/revision/latest?cb=20180530234053",
+        "name": "Infinity Edge",
+        "price": "3300",
+        "attribute": "+60 Attack Damage\n+25% Critical Rate",
+        "detail": "https://dl.dropboxusercontent.com/s/p9wmj3tm3y9shqg/Infinity%20Edge.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/Manamune.png/revision/latest?cb=20180811223417",
+        "name": "Manamune",
+        "price": "2700",
+        "attribute": "+25 Attack Damage\n+300 Max Mana\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/eqzmompo55w4c4i/Manamune.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/Maw_of_Malmortius.png/revision/latest?cb=20170802055853",
+        "name": "Maw of Malmortius",
+        "price": "3300",
+        "attribute": "+45 Attack Damage\n+35 Magic Resistance\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/749fz9o3dgudvjw/Maw%20of%20Malmortius.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1d/Mortal_Reminder.png/revision/latest?cb=20180731000702",
+        "name": "Mortal Reminder",
+        "price": "2650",
+        "attribute": "+45 Attack Damage",
+        "detail": "https://dl.dropboxusercontent.com/s/sebasnbwny55q5u/Mortal%20Reminder.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/79/Muramana.png/revision/latest?cb=20180811231920",
+        "name": "Muramana",
+        "price": "0",
+        "attribute": "+25 Attack Damage\n+1000 Max Mana\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/nyhg5jal85dwdr2/Muramana.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2c/Phantom_Dancer.png/revision/latest?cb=20180730233303",
+        "name": "Phantom Dancer",
+        "price": "3100",
+        "attribute": "+25% Critical Rate\n+45% Attack Speed",
+        "detail": "https://dl.dropboxusercontent.com/s/llqg2gk414iiane/Phantom%20Dancer.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/31/Rapid_Firecannon.png/revision/latest?cb=20180731000401",
+        "name": "Rapid Firecannon",
+        "price": "2600",
+        "attribute": "+25% Critical Rate\n+35% Attack Speed",
+        "detail": "https://dl.dropboxusercontent.com/s/rx2igotgegh1p05/Rapid%20Firecannon.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Runaan%27s_Hurricane.png/revision/latest?cb=20170802112630",
+        "name": "Runaan's Hurricane",
+        "price": "2600",
+        "attribute": "+25% Critical Rate\n+45% Attack Speed",
+        "detail": "https://dl.dropboxusercontent.com/s/uj44s853gcdtjgf/Runaan%27s%20Hurricane.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Statikk_Shiv.png/revision/latest?cb=20180730224449",
+        "name": "Statikk Shiv",
+        "price": "2600",
+        "attribute": "+25% Critical Rate\n+35% Attack Speed",
+        "detail": "https://dl.dropboxusercontent.com/s/hrw50wkg23c8794/Statikk%20Shiv.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Trinity_Force_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200711163729",
+        "name": "Trinity Force",
+        "price": "3733",
+        "attribute": "+200 Max Health\n+20 Attack Damage\n+40% Attack Speed\n+300 Max Mana\n+20% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/50svrtnoz7cws2v/Trinity%20Force.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/Umbral_Glaive.png/revision/latest?cb=20191119200307",
+        "name": "Umbral Glaive",
+        "price": "2800",
+        "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/iwvzwnzx4i5ci7h/Umbral%20Glaive.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/Youmuu%27s_Ghostblade.png/revision/latest?cb=20180730225359",
+        "name": "Youmuu's Ghostblade",
+        "price": "3000",
+        "attribute": "+50 Attack Damage\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/5jq3mnofa6apprs/Youmuu%27s%20Ghostblade.png?dl=0"
+    }
+]

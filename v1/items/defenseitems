@@ -1,0 +1,107 @@
+[
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/21/Abyssal_Mask.png/revision/latest?cb=20180730234917",
+        "name": "Abyssal Mask",
+        "price": "2800",
+        "attribute": "+300 Max Health\n+40 Magic Resistance\n+300 Max Mana\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/o6ipym5pd4duxfx/Abyssal%20Mask.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/17/Adaptive_Helm.png/revision/latest?cb=20180730234822",
+        "name": "Adaptive Helm",
+        "price": "2800",
+        "attribute": "+300 Max Health\n+100% Health Regen\n+60 Magic Resistance",
+        "detail": "https://dl.dropboxusercontent.com/s/aj203cxbs5b3liz/Adaptive%20Helm.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Dead_Man%27s_Plate.png/revision/latest?cb=20180730234617",
+        "name": "Dead Man's Plate",
+        "price": "2900",
+        "attribute": "+300 Max Health\n+50 Armor",
+        "detail": "https://dl.dropboxusercontent.com/s/tb0ax9wnsd3ilbu/Dead%20Man%27s%20Plate.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Frozen_Mallet.png/revision/latest?cb=20180811021121",
+        "name": "Frozen Mallet",
+        "price": "3000",
+        "attribute": "+550 Max Health\n+25 Attack Damage",
+        "detail": "https://dl.dropboxusercontent.com/s/ltx8ih3zyti82at/Frozen%20Mallet.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/Guardian_Angel.png/revision/latest?cb=20180730233953",
+        "name": "Guardian Angle",
+        "price": "2800",
+        "attribute": "+45 Attack Damage\n+40 Armor",
+        "detail": "https://dl.dropboxusercontent.com/s/jblz46q34aqso7f/Guardian%20Angel.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/59/Iceborn_Gauntlet_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200926200935",
+        "name": "Iceborn Gauntlet",
+        "price": "2700",
+        "attribute": "+50 Armor\n+450 Max Mana\n+20% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/xtbo1tontroa638/Iceborn%20Gauntlet.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/56/Protector%27s_Vow_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122159",
+        "name": "Protector's Vow",
+        "price": "2700",
+        "attribute": "+350 Max Health\n+40 Armor\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/nsdms69qmw2vhkq/Protector%27s%20Vow.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/Randuin%27s_Omen.png/revision/latest?cb=20180813001640",
+        "name": "Randuin's Omen",
+        "price": "2800",
+        "attribute": "+400 Max Health\n+50 Armor",
+        "detail": "https://dl.dropboxusercontent.com/s/n2qrr6e9irou07p/Randuin%27s%20Omen.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Spirit_Visage.png/revision/latest?cb=20170802134932",
+        "name": "Spirit Visage",
+        "price": "2900",
+        "attribute": "+300 Max Health\n+100% Health Regen\n+45 Magic Resistance\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/15kougm9eansae1/Spirit%20Visage.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/Sterak%27s_Gage.png/revision/latest?cb=20181129023059",
+        "name": "Sterak's Gage",
+        "price": "3200",
+        "attribute": "+400 Max Health",
+        "detail": "https://dl.dropboxusercontent.com/s/z14mwfjjikprrhl/Sterak%27s%20Gage.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/Sunfire_Cape.png/revision/latest?cb=20180812224548",
+        "name": "Sunfire Cape",
+        "price": "2800",
+        "attribute": "+400 Max Health\n+40 Armor",
+        "detail": "https://dl.dropboxusercontent.com/s/cln99mum0j9hd47/Sunfire%20Cape.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/Thornmail.png/revision/latest?cb=20180731011751",
+        "name": "Thornmail",
+        "price": "2800",
+        "attribute": "+200 Max Health\n+75 Armor",
+        "detail": "https://dl.dropboxusercontent.com/s/y75s1z8rgost1th/Thornmail.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/Warmog%27s_Armor.png/revision/latest?cb=20181130181639",
+        "name": "Warmog's Armor",
+        "price": "2850",
+        "attribute": "+650 Max Health\n+200% Health Regen\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/i2bp4yw80o0h26f/Warmog%27s%20Armor.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/18/Winter%27s_Approach_%28Wild_Rift%29_item.png/revision/latest/scale-to-width-down/64?cb=20200713122359",
+        "name": "Winter's Approach",
+        "price": "2600",
+        "attribute": "+40 Armor\n+450 Max Mana\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/pk1py503vbnqkxg/Winter%27s%20Approach.png?dl=0"
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/Zeke%27s_Convergence.png/revision/latest?cb=20180730225459",
+        "name": "Zeke's Convergence",
+        "price": "2800",
+        "attribute": "+40 Armor\n+40 Magic Resistance\n+150 Max Mana\n+10% Cooldown Reduction",
+        "detail": "https://dl.dropboxusercontent.com/s/0ap106861j4mcgd/Zeke%27s%20Convergence.png?dl=0"
+    }
+]

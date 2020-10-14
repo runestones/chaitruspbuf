@@ -1,0 +1,74 @@
+[
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/hsbj390ql1zy8hi/Aery.png?dl=0",
+        "name": "Aery",
+        "type": "Poke, Protect",
+        "damage": "Damage: 10 - 60 (lv) + 20% bonus (physical) + 10% (ability)",
+        "defence": "Shield: 20 - 120 (lv) + 40% (physical) + 20% (ability)",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/ffl3hzk59wkdphx/aery.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/ghybgab1ontqdhx/GraspoftheUndying.png?dl=0",
+        "name": "Grasp of The Undying",
+        "type": "Tank, Heal",
+        "damage": "Bonus Magic Damage: 4% of your max health",
+        "defence": "Heal: 2% of your max health",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/ko19v5hsgdxagxj/grasp%20of%20theundying.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/b75twq8bpvyzhnw/Aftershock.png?dl=0",
+        "name": "Aftershock",
+        "type": "Control, Offense",
+        "damage": "Damage: 12-110 + 4% max health, magic damage ",
+        "defence": "Defenses: 50 AR (armor) + 50% bonus AR and 50 MR (magic resistance) + 50% MR for 2.5 seconds ",
+        "coolDown": "Cooldown: 35 sec",
+        "detail": "https://dl.dropboxusercontent.com/s/a5k1im73v52zx67/aftershock.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/rdxu6kd6jmnw9lf/Conqueror.png?dl=0",
+        "name": "Conqueror",
+        "type": "Stacking Damage",
+        "damage": "Fully stacked damage: 10% bonus adaptive damage to Enemy Champions ",
+        "defence": "",
+        "coolDown": "Per stack: 2 - 6 bonus AD or 4 - 12 AP for 8 seconds ",
+        "detail": "https://dl.dropboxusercontent.com/s/u3kia619utkpaql/conqueror.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/iy9o2aar20h6tay/Electrocute.png?dl=0",
+        "name": "Electrocute",
+        "type": "Burst Damage",
+        "damage": "Damage: 30 - 184 (lv) + 40% bonus (physical) + 25% (ability)",
+        "defence": "",
+        "coolDown": "Cooldown: 25 seconds",
+        "detail": "https://dl.dropboxusercontent.com/s/t20kevhds3jnapt/electrocute.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/klnm1scmrrb994s/FleetFootwork.png?dl=0",
+        "name": "Fleet Footwork",
+        "type": "Mobility, Heal",
+        "damage": "Heal: 15 - 85 + 30% bonus (physical) + 30% (ability)",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/q9flmlxluv05zp5/fleet%20footwork.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/l5d5ps0lxrwb7ph/FontofLife.png?dl=0",
+        "name": "Font of Lift",
+        "type": "Team Heal",
+        "damage": "Heal: equal to 3% of your max health in 2 seconds ",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/7e2g2vt5pkmy24e/font%20of%20life.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/qmcv935z0xg04c3/Kleptomancy.png?dl=0",
+        "name": "Kleptomancy",
+        "type": "Random Buff",
+        "damage": "",
+        "defence": "",
+        "coolDown": "Cooldown: 25 seconds",
+        "detail": "https://dl.dropboxusercontent.com/s/ltxwlrcewigyhid/kleptomancy.png?dl=0"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Hunter_-_Genius_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102756",
+        "name": "Hunter-Genius",
+        "type": "CRD",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/jjekg0i8by8ctx9/Hunter-Genius.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Manaflow_Band_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102907",
+        "name": "Manaflow Band",
+        "type": "Mana",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/70ql0rfzwtlrpwu/Manaflow%20Band.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Mastermind_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102925",
+        "name": "Mastermind",
+        "type": "Objectives, Gold",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/a6qkvl6uf3yq83y/Mastermind.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cd/Pack_Hunter_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713102951",
+        "name": "Pack Hunter",
+        "type": "Mobility, Team Gold",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/zrp9v20en1fuhm7/Pack%20Hunter.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Pathfinder_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103015",
+        "name": "Pathfinder",
+        "type": "Mobility",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/9ovpkl88i1wdory/Pathfinder.png?dl=0"
+    },
+    {
+        "icon": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e1/Sweet_Tooth_%28Wild_Rift%29_rune.png/revision/latest/scale-to-width-down/64?cb=20200713103128",
+        "name": "Sweet Tooth",
+        "type": "Honeyfruit, Gold",
+        "damage": "",
+        "defence": "",
+        "coolDown": "",
+        "detail": "https://dl.dropboxusercontent.com/s/5m0ejlu3cf7ynvl/Sweet%20Tooth.png?dl=0"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/or69q0uyx0warpt/barrier.png?dl=0",
+        "name": "Barrier",
+        "coolDown": "90 seconds",
+        "detail": "https://dl.dropboxusercontent.com/s/xzj7etmuoxcl8ts/barrier_info.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/dih3j72jknr740s/Exhaust.png?dl=0",
+        "name": "Exhaust",
+        "coolDown": "105 seconds",
+        "detail": "https://dl.dropboxusercontent.com/s/4ei88vrk2vu6pn0/exhaust_info.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/6q0qx2z0olecq58/Flash.png?dl=0",
+        "name": "Flash",
+        "coolDown": "150 seconds",
+        "detail": "https://dl.dropboxusercontent.com/s/9m5hsoqsjbnmx7n/flash_info.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/3u77l1pt7sh36c6/Ghost.png?dl=0",
+        "name": "Ghost",
+        "coolDown": "90 seconds",
+        "detail": "https://dl.dropboxusercontent.com/s/pnscaoc6qwygaqn/ghost_info.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/bezq5h5vmamnnj1/Heal.png?dl=0",
+        "name": "Heal",
+        "coolDown": "120 seconds",
+        "detail": "https://dl.dropboxusercontent.com/s/nau1jxz9kpjr40t/heal_info.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/qgd5f1xvl1k4zwu/Ignite.png?dl=0",
+        "name": "Ignite",
+        "coolDown": "90 seconds",
+        "detail": "https://dl.dropboxusercontent.com/s/0wmq9lbsy5l4sz5/ignite_info.png?dl=0"
+    },
+    {
+        "icon": "https://dl.dropboxusercontent.com/s/x254wik4gfx4dbl/Smite.png?dl=0",
+        "name": "Smite",
+        "coolDown": "10 seconds",
+        "detail": "https://dl.dropboxusercontent.com/s/1yegfshggorgcwb/smite_info.png?dl=0"
+    }
+]
